@@ -1,4 +1,4 @@
 # first-demo
 First Git repository.
 <br>
-Author - Ayush (Har-Bringer1)
+Author - Ayush (Har-Binger1)
